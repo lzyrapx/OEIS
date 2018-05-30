@@ -324,7 +324,7 @@ int main(int argc, char const *argv[]) {
 	int n;
 	std::cout << "ok" << '\n';
 	expo[0] = 1;
-  for(long long i = 1; i <= (51 * 51) / 2; i++) {
+  	for(long long i = 1; i <= (51 * 51) / 2; i++) {
 		expo[i] = 2LL * expo[i - 1];
 	}
 	f[1] = 1;
