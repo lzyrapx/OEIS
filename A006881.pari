@@ -1,0 +1,1 @@
+for(n=1, 1000, if(bigomega(n)==2&&issquarefree(n), print1(n, ", ")))
