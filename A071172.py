@@ -1,5 +1,5 @@
-// http://oeis.org/A071172
-// 有更快的方法.详细见 PE193
+# http://oeis.org/A071172
+# 有更快的方法.详细见 PE193
 from math import sqrt
 from math import floor
 import time
